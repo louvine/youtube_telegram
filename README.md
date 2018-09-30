@@ -1,2 +1,2 @@
-# you_tube_telegram
+# youtube_telegram
 send telegram messages when your youtube channel has new subscribers, views, comments...
